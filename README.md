@@ -1,7 +1,7 @@
 ### Olá! Eu sou Lais Beluco Marba 👾
 
 - 🔭 Sou estagiária/bolsista de front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e React
 - 😄 Pronomes: ela/dela
 
 <div align="center">
