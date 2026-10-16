@@ -1,6 +1,6 @@
 # Olá, eu sou a Lais Beluco Marba! 👾
 
-🎓 **Estudante de Desenvolvimento**  
+🎓 **Formada em Desenvolvimento**  
 💻 **Atualmente estudando:** PHP e tecnologias relacionadas a back-end e front-end  
 ⚡ **Pronomes:** ela/dela  
 
